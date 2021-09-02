@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3b9c11a-5d84-4dc3-94ee-902c852494cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +25,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
-  <component name="RunManager" selected="Node.js.server.js">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -70,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630571420375</updated>
       <workItem from="1630571422177" duration="1783000" />
+      <workItem from="1630594843268" duration="483000" />
     </task>
     <servers />
   </component>
@@ -77,26 +74,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="709" height="201" key="GridCell.Tab.0.bottom" timestamp="1630575187439">
+    <state width="709" height="201" key="GridCell.Tab.0.bottom" timestamp="1630595032205">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
-    <state width="709" height="201" key="GridCell.Tab.0.bottom/-1440.0.1440.900/0.23.1920.990@0.23.1920.990" timestamp="1630575187439" />
-    <state width="709" height="201" key="GridCell.Tab.0.center" timestamp="1630575187438">
+    <state width="709" height="201" key="GridCell.Tab.0.bottom/-1440.0.1440.900/0.23.1920.990@0.23.1920.990" timestamp="1630595032205" />
+    <state width="709" height="201" key="GridCell.Tab.0.center" timestamp="1630595032203">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
-    <state width="709" height="201" key="GridCell.Tab.0.center/-1440.0.1440.900/0.23.1920.990@0.23.1920.990" timestamp="1630575187438" />
-    <state width="709" height="201" key="GridCell.Tab.0.left" timestamp="1630575187437">
+    <state width="709" height="201" key="GridCell.Tab.0.center/-1440.0.1440.900/0.23.1920.990@0.23.1920.990" timestamp="1630595032203" />
+    <state width="709" height="201" key="GridCell.Tab.0.left" timestamp="1630595032202">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
-    <state width="709" height="201" key="GridCell.Tab.0.left/-1440.0.1440.900/0.23.1920.990@0.23.1920.990" timestamp="1630575187437" />
-    <state width="709" height="201" key="GridCell.Tab.0.right" timestamp="1630575187439">
+    <state width="709" height="201" key="GridCell.Tab.0.left/-1440.0.1440.900/0.23.1920.990@0.23.1920.990" timestamp="1630595032202" />
+    <state width="709" height="201" key="GridCell.Tab.0.right" timestamp="1630595032205">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
-    <state width="709" height="201" key="GridCell.Tab.0.right/-1440.0.1440.900/0.23.1920.990@0.23.1920.990" timestamp="1630575187439" />
-    <state x="571" y="532" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630575186026">
+    <state width="709" height="201" key="GridCell.Tab.0.right/-1440.0.1440.900/0.23.1920.990@0.23.1920.990" timestamp="1630595032205" />
+    <state x="571" y="532" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630594876368">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
-    <state x="571" y="532" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1440.0.1440.900/0.23.1920.990@0.23.1920.990" timestamp="1630575186026" />
+    <state x="571" y="532" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1440.0.1440.900/0.23.1920.990@0.23.1920.990" timestamp="1630594876368" />
     <state x="446" y="365" width="639" height="486" key="find.popup" timestamp="1630572484237">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
